@@ -1,0 +1,15 @@
+{
+  "name": "sampleapi",
+  "version": "1.0.0",
+  "description": "api description",
+  "main": "index.js",
+  "scripts": {
+    "test": "sample command"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "javascript.util": "^0.12.12"
+  }
+}
