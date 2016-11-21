@@ -4,7 +4,7 @@
   "description": "api description",
   "main": "index.js",
   "scripts": {
-    "test": "sample command for check the commit"
+    "test": "sample command changes apiggeee"
   },
   "author": "",
   "license": "ISC",
