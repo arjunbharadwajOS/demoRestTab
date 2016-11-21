@@ -1,10 +1,10 @@
 {
-  "name": "sampleapi",
+  "name": "demoRestTab",
   "version": "1.0.0",
   "description": "api description",
   "main": "index.js",
   "scripts": {
-    "test": "sample command"
+    "test": "sample command for check the commit"
   },
   "author": "",
   "license": "ISC",

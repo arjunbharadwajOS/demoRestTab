@@ -7,7 +7,7 @@ var resultarray = new Array();
 var result = "";
 
 app.get('/nodejs', function (req, res) {
-  res.send('Nodejs Sample Hi App!!');
+  res.send('Node App!!');
 });
 
 app.listen(3000, function () {
